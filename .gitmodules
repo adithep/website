@@ -22,6 +22,9 @@
 [submodule "mongo-aggregation"]
   path = packages/mongo-aggregation
   url = https://github.com/adithep/mongo-aggregation.git
+[submodule "json-control"]
+  path = packages/json-control
+  url = https://github.com/adithep/json-control.git
 [submodule "seed-json"]
   path = packages/seed-json
   url = https://github.com/adithep/seed-json.git
