@@ -1,0 +1,42 @@
+{
+  "packages": {
+    "core-server": {
+      "path": "../packages/core-server"
+    },
+    "seed-json": {
+      "path": "../packages/seed-json"
+    },
+    "core-lib": {
+      "path": "../packages/core-lib"
+    },
+    "utilities": {
+      "path": "../packages/utilities"
+    },
+    "mongo-aggregation": {
+      "path": "../packages/mongo-aggregation"
+    },
+    "layout": {
+      "path": "../packages/layout"
+    },
+    "authentication": {
+      "path": "../packages/authentication"
+    },
+    "template-control": {
+      "path": "../packages/template-control"
+    },
+    "foundation": {
+      "path": "../packages/foundation"
+    },
+    "alpha-router": {
+      "path": "../packages/alpha-router"
+    },
+    "alpha-form": {
+      "path": "../packages/alpha-form"
+    },
+    "alpha-stylus": {
+      "path": "../packages/alpha-stylus"
+    },
+    "npm": {},
+    "mongodb-server-aggregation": {}
+  }
+}
