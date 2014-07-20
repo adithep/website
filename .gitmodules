@@ -1,3 +1,6 @@
+[submodule "alpha-layout"]
+  path = packages/alpha-layout
+  url = https://github.com/adithep/alpha-layout.git
 [submodule "alpha-form"]
   path = packages/alpha-form
   url = https://github.com/adithep/alpha-form.git
@@ -25,3 +28,6 @@
 [submodule "utilities"]
   path = packages/utilities
   url = https://github.com/adithep/utilities.git
+[submodule "static"]
+  path = packages/static
+  url = https://github.com/adithep/static.git
