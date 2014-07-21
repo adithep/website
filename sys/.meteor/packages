@@ -4,3 +4,13 @@
 # but you can also edit it by hand.
 
 standard-app-packages
+alpha-auth
+alpha-form
+alpha-layout
+alpha-router
+alpha-template
+core-lib
+core-server
+mongo-aggregation
+seed-json
+utilities
