@@ -28,6 +28,3 @@
 [submodule "utilities"]
   path = packages/utilities
   url = https://github.com/adithep/utilities.git
-[submodule "static"]
-  path = packages/static
-  url = https://github.com/adithep/static.git
