@@ -28,3 +28,6 @@
 [submodule "utilities"]
   path = packages/utilities
   url = https://github.com/adithep/utilities.git
+[submodule "node-util"]
+  path = packages/node-util
+  url = https://github.com/adithep/node-util.git
