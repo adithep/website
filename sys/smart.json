@@ -3,9 +3,6 @@
     "core-server": {
       "path": "../packages/core-server"
     },
-    "seed-json": {
-      "path": "../packages/seed-json"
-    },
     "core-lib": {
       "path": "../packages/core-lib"
     },

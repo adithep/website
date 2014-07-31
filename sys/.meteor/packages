@@ -12,7 +12,6 @@ alpha-template
 core-lib
 core-server
 mongo-aggregation
-seed-json
 utilities
 accounts-base
 accounts-password
