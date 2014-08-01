@@ -1,33 +1,33 @@
 [submodule "alpha-layout"]
   path = packages/alpha-layout
-  url = https://github.com/adithep/alpha-layout.git
+  url = git@github.com:adithep/alpha-layout.git
 [submodule "alpha-form"]
   path = packages/alpha-form
-  url = https://github.com/adithep/alpha-form.git
+  url = git@github.com:adithep/alpha-form.git
 [submodule "alpha-router"]
   path = packages/alpha-router
-  url = https://github.com/adithep/alpha-router.git
+  url = git@github.com:adithep/alpha-router.git
 [submodule "alpha-template"]
   path = packages/alpha-template
-  url = https://github.com/adithep/alpha-template.git
+  url = git@github.com:adithep/alpha-template.git
 [submodule "alpha-auth"]
   path = packages/alpha-auth
-  url = https://github.com/adithep/alpha-auth.git
+  url = git@github.com:adithep/alpha-auth.git
 [submodule "core-lib"]
   path = packages/core-lib
-  url = https://github.com/adithep/core-lib.git
+  url = git@github.com:adithep/core-lib.git
 [submodule "core-server"]
   path = packages/core-server
-  url = https://github.com/adithep/core-server.git
+  url = git@github.com:adithep/core-server.git
 [submodule "mongo-aggregation"]
   path = packages/mongo-aggregation
-  url = https://github.com/adithep/mongo-aggregation.git
+  url = git@github.com:adithep/mongo-aggregation.git
 [submodule "utilities"]
   path = packages/utilities
-  url = https://github.com/adithep/utilities.git
+  url = git@github.com:adithep/utilities.git
 [submodule "node-util"]
   path = node-util
-  url = https://github.com/adithep/node-util.git
+  url = git@github.com:adithep/node-util.git
 [submodule "json"]
   path = json
-  url = https://github.com/adithep/json.git
+  url = git@github.com:adithep/json.git
