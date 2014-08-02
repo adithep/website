@@ -10,6 +10,12 @@
 [submodule "alpha-template"]
   path = packages/alpha-template
   url = git@github.com:adithep/alpha-template.git
+[submodule "alpha-stylus"]
+  path = packages/alpha-stylus
+  url = git@github.com:adithep/alpha-stylus.git
+[submodule "alpha-mixins"]
+  path = packages/alpmixins
+  url = git@github.com:adithep/alpha-mixins.git
 [submodule "alpha-auth"]
   path = packages/alpha-auth
   url = git@github.com:adithep/alpha-auth.git

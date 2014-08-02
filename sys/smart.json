@@ -6,6 +6,9 @@
     "core-lib": {
       "path": "../packages/core-lib"
     },
+    "alpha-stylus": {
+      "path": "../packages/alpha-stylus"
+    },
     "utilities": {
       "path": "../packages/utilities"
     },
