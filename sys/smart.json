@@ -1,36 +1,34 @@
 {
   "packages": {
-    "core-server": {
-      "path": "../packages/core-server"
+    "bads:core-server": {
+      "path": "../packages/bads:core-server"
     },
-    "core-lib": {
-      "path": "../packages/core-lib"
+    "bads:core-lib": {
+      "path": "../packages/bads:core-lib"
     },
-    "alpha-stylus": {
-      "path": "../packages/alpha-stylus"
+    "bads:alpha-stylus": {
+      "path": "../packages/bads:alpha-stylus"
     },
-    "utilities": {
-      "path": "../packages/utilities"
+    "bads:utilities": {
+      "path": "../packages/bads:utilities"
     },
-    "mongo-aggregation": {
-      "path": "../packages/mongo-aggregation"
+    "bads:mongo-aggregation": {
+      "path": "../packages/bads:mongo-aggregation"
     },
-    "alpha-layout": {
-      "path": "../packages/alpha-layout"
+    "bads:alpha-layout": {
+      "path": "../packages/bads:alpha-layout"
     },
-    "alpha-auth": {
-      "path": "../packages/alpha-auth"
+    "bads:alpha-auth": {
+      "path": "../packages/bads:alpha-auth"
     },
-    "alpha-template": {
-      "path": "../packages/alpha-template"
+    "bads:alpha-template": {
+      "path": "../packages/bads:alpha-template"
     },
-    "alpha-router": {
-      "path": "../packages/alpha-router"
+    "bads:alpha-router": {
+      "path": "../packages/bads:alpha-router"
     },
-    "alpha-form": {
-      "path": "../packages/alpha-form"
-    },
-    "npm": {},
-    "mongodb-server-aggregation": {}
+    "bads:alpha-form": {
+      "path": "../packages/bads:alpha-form"
+    }
   }
 }

@@ -1,36 +1,36 @@
 [submodule "alpha-layout"]
-  path = packages/alpha-layout
+  path = packages/bads:alpha-layout
   url = git@github.com:adithep/alpha-layout.git
 [submodule "alpha-form"]
-  path = packages/alpha-form
+  path = packages/bads:alpha-form
   url = git@github.com:adithep/alpha-form.git
 [submodule "alpha-router"]
-  path = packages/alpha-router
+  path = packages/bads:alpha-router
   url = git@github.com:adithep/alpha-router.git
 [submodule "alpha-template"]
-  path = packages/alpha-template
+  path = packages/bads:alpha-template
   url = git@github.com:adithep/alpha-template.git
 [submodule "alpha-stylus"]
-  path = packages/alpha-stylus
+  path = packages/bads:alpha-stylus
   url = git@github.com:adithep/alpha-stylus.git
+[submodule "alpha-auth"]
+  path = packages/bads:alpha-auth
+  url = git@github.com:adithep/alpha-auth.git
+[submodule "core-lib"]
+  path = packages/bads:core-lib
+  url = git@github.com:adithep/core-lib.git
+[submodule "core-server"]
+  path = packages/bads:core-server
+  url = git@github.com:adithep/core-server.git
+[submodule "mongo-aggregation"]
+  path = packages/bads:mongo-aggregation
+  url = git@github.com:adithep/mongo-aggregation.git
+[submodule "utilities"]
+  path = packages/bads:utilities
+  url = git@github.com:adithep/utilities.git
 [submodule "alpha-mixins"]
   path = packages/alpmixins
   url = git@github.com:adithep/alpha-mixins.git
-[submodule "alpha-auth"]
-  path = packages/alpha-auth
-  url = git@github.com:adithep/alpha-auth.git
-[submodule "core-lib"]
-  path = packages/core-lib
-  url = git@github.com:adithep/core-lib.git
-[submodule "core-server"]
-  path = packages/core-server
-  url = git@github.com:adithep/core-server.git
-[submodule "mongo-aggregation"]
-  path = packages/mongo-aggregation
-  url = git@github.com:adithep/mongo-aggregation.git
-[submodule "utilities"]
-  path = packages/utilities
-  url = git@github.com:adithep/utilities.git
 [submodule "node-util"]
   path = node-util
   url = git@github.com:adithep/node-util.git

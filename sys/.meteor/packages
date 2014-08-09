@@ -4,15 +4,14 @@
 # but you can also edit it by hand.
 
 standard-app-packages
-alpha-auth
-alpha-form
-alpha-layout
-alpha-router
-alpha-template
-core-lib
-core-server
-mongo-aggregation
-utilities
-accounts-base
-accounts-password
-alpha-stylus
+bads:core-server
+bads:alpha-auth
+bads:alpha-form
+bads:alpha-layout
+bads:alpha-router
+bads:alpha-stylus
+bads:alpha-template
+bads:core-lib
+bads:mongo-aggregation
+bads:utilities
+
