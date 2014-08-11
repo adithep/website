@@ -28,6 +28,9 @@
 [submodule "utilities"]
   path = packages/bads:utilities
   url = git@github.com:adithep/utilities.git
+[submodule "doc-ctrl"]
+  path = packages/bads:doc-ctrl
+  url = git@github.com:adithep/doc-ctrl.git
 [submodule "alpha-mixins"]
   path = packages/alpmixins
   url = git@github.com:adithep/alpha-mixins.git

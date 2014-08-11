@@ -10,6 +10,7 @@ bads:alpha-stylus@0.44.0
 bads:alpha-template@0.0.1
 bads:core-lib@0.0.1
 bads:core-server@0.0.1
+bads:doc-ctrl@1.0.0
 bads:mongo-aggregation@0.0.1
 bads:utilities@0.0.1
 binary-heap@1.0.0

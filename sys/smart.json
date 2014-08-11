@@ -29,6 +29,9 @@
     },
     "bads:alpha-form": {
       "path": "../packages/bads:alpha-form"
+    },
+    "bads:doc-ctrl": {
+      "path": "../packages/bads:doc-ctrl"
     }
   }
 }
