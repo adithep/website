@@ -15,3 +15,5 @@ bads:core-lib
 bads:mongo-aggregation
 bads:utilities
 bads:doc-ctrl
+arunoda:kadira
+
